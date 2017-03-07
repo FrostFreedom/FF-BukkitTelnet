@@ -13,8 +13,8 @@
     </properties>
 
     <name>BukkitTelnet</name>
-    <description>Admin telnet access for minecraft servers.</description>
-    <url>https://github.com/TotalFreedom/BukkitTelnet</url>
+    <description>Admin telnet access for FrostFreedom.</description>
+    <url>https://github.com/FrostFreedom/FF-BukkitTelnet</url>
 
     <licenses>
         <license>
@@ -29,9 +29,9 @@
     </organization>
 
     <scm>
-        <connection>scm:git:git@github.com:TotalFreedom/BukkitTelnet.git</connection>
-        <developerConnection>scm:git:git@github.com:TotalFreedom/BukkitTelnet.git</developerConnection>
-        <url>git@github.com:TotalFreedom/BukkitTelnet.git</url>
+        <connection>scm:git:git@github.com:FrostFreedom/FF-BukkitTelnet.git</connection>
+        <developerConnection>scm:git:git@github.com:FrostFreedom/FF-BukkitTelnet.git</developerConnection>
+        <url>git@github.com:FrostFreedom/FF-BukkitTelnet.git</url>
     </scm>
 
     <repositories>
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.9-R0.1-SNAPSHOT</version>
+            <version>1.11.2-R0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
 
